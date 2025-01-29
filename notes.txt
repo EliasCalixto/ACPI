@@ -1,0 +1,53 @@
+1. Fundamentos de Matemáticas y Estadística
+
+	•	Repasa álgebra lineal (matrices, vectores), cálculo (derivadas e integrales) y probabilidad básica.
+	•	Recursos recomendados:
+	•	Libro: “Mathematics for Machine Learning” (disponible gratis en mml-book.com).
+	•	Curso: Khan Academy (álgebra y estadística).
+
+2. Python para Ciencia de Datos
+
+	•	Aprende las librerías principales:
+	•	Numpy: manipulación de datos numéricos.
+	•	Pandas: análisis y manipulación de datos.
+	•	Matplotlib/Seaborn: visualización.
+	•	Recursos recomendados:
+	•	Curso: “Python for Data Science and Machine Learning Bootcamp” (Udemy).
+	•	Documentación oficial de las librerías.
+
+3. Introducción a Machine Learning
+
+	•	Entiende conceptos básicos como:
+	•	Supervisado vs. no supervisado.
+	•	Regresión vs. clasificación.
+	•	Validación cruzada y sobreajuste.
+	•	Comienza con bibliotecas como scikit-learn.
+	•	Recursos recomendados:
+	•	Curso: “Machine Learning” de Andrew Ng (Coursera, gratis con opción paga para certificado).
+	•	Libro: “Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow” (Aurélien Géron).
+
+4. Proyectos Prácticos
+
+	•	Trabaja con conjuntos de datos reales (p. ej., en Kaggle o UCI Machine Learning Repository).
+	•	Ejemplos de proyectos:
+	•	Predicción de precios (regresión).
+	•	Clasificación de imágenes o texto.
+	•	Análisis de agrupamiento.
+
+5. Deep Learning
+
+	•	Una vez que domines ML básico, avanza al aprendizaje profundo:
+	•	Aprende TensorFlow y PyTorch.
+	•	Conceptos como redes neuronales, CNNs, y RNNs.
+	•	Recursos recomendados:
+	•	Curso: “Deep Learning Specialization” de Andrew Ng (Coursera).
+	•	Documentación de TensorFlow/PyTorch.
+
+6. Colabora y Comparte
+
+	•	Sube tus proyectos a GitHub para construir un portafolio.
+	•	Participa en competencias de Kaggle para aprender y ganar experiencia.
+
+7. Explora Casos Reales
+
+	•	Investiga aplicaciones de ML en áreas como visión por computadora, procesamiento de lenguaje natural (NLP) o sistemas de recomendación.
